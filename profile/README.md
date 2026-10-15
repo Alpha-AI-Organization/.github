@@ -16,7 +16,7 @@ The "A" in our mark is the first letter of every product name: Todo-T**A**sk and
 |---|---|---|
 | <img src="todo-task.png" alt="Todo-Task" width="180"> | **Todo-Task** | A local task dashboard for Jira-style work: Overview, Board, List, History, Activity, Calendar, Mail and Habits, plus local projects with their own boards. A task opens into a checklist, merge requests, an AI insight and Confluence context. Jira and Confluence are read-only. Runs on your machine. |
 | <img src="agent-roster.png" alt="Agent-roster" width="180"> | **Agent-roster** | A small team of AI agents (a BA, a CTO and Managers) that run locally in terminal panes, take assignments, ask each other under strict rules and report back. One local server is the only writer of agent state. Guards block risky file and git actions, and an analyst flags blocked work. Loopback only. |
-| <img src="alpha-ai-symbol.png" alt="TodoApp" width="60"> | **TodoApp** (iPhone) | A SwiftUI companion that mirrors Todo-Task and Agent-roster on your phone, shows agent conversations as chat and sends only allow-listed commands back through a local bridge. Login required. |
+| <img src="todoapp-icon.png" alt="TodoApp" width="80"> | **TodoApp** (iPhone) | A SwiftUI companion that mirrors Todo-Task and Agent-roster on your phone, shows agent conversations as chat and sends only allow-listed commands back through a local bridge. Login required. |
 
 ## How they fit together
 
